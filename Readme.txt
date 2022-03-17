@@ -5,7 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/EngrThOYe/scb.git
 git push -u origin main
-h an existing repository from the command line
+h an pulling man to laptop
 git remote add origin https://github.com/EngrThOYe/scb.git
 git branch -M main
 git push -u origin main
